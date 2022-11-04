@@ -20,7 +20,7 @@ const BigCollection = () => {
             </div>
             <div class="p-4 md:w-52 sm:mb-0 mb-6 mx-auto">
               <div class="rounded-lg h-50 overflow-hidden">
-                <img alt="content" class="object-cover object-center h-full w-full border border-dashed border-red-500 rounded-full" src="https://i.ibb.co/MCX7HxP/IMG-6282-2-02-1.png" />
+                <img alt="content" class="object-cover object-center h-full w-full border border-dashed border-red-500 rounded-full" src="https://i.ibb.co/ygx8nNz/IMG-6279-2-02-1.png" />
               </div>
             </div>
             <div class="p-4 md:w-52 sm:mb-0 mb-6 mx-auto">
