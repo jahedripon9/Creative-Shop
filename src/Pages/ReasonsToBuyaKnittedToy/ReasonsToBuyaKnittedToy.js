@@ -3,7 +3,7 @@ import React from 'react';
 const ReasonsToBuyaKnittedToy = () => {
     return (
         <div className='container mx-auto px-10'>
-            <section class="text-gray-600 body-font">
+            <section class="text-gray-600 body-font my-12">
             <div class="text-center mb-0">
       <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900 mb-4 ">Raw Denim Heirloom Man Braid</h1>
       

@@ -1,4 +1,5 @@
 import React from 'react';
+import BigCollection from '../BigCollection/BigCollection';
 import HeroSection from '../HeroSection/HeroSection';
 import Header from '../Navbar/Header';
 import ReasonsToBuyaKnittedToy from '../ReasonsToBuyaKnittedToy/ReasonsToBuyaKnittedToy';
@@ -9,6 +10,7 @@ const Home = () => {
             <Header></Header>
             <HeroSection></HeroSection>
             <ReasonsToBuyaKnittedToy></ReasonsToBuyaKnittedToy>
+            <BigCollection></BigCollection>
         </div>
     );
 };
